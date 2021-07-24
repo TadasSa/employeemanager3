@@ -1,0 +1,21 @@
+{
+    "email": "daniel@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "JavaScript",
+    "name": "Daniel Craig",
+    "phone": "111111111"
+}
+{
+    "email": "christine@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+    "jobTitle": "UX/UI",
+    "name": "Christine Smith",
+    "phone": "2222222222"
+}
+{
+    "email": "dave@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "jobTitle": "JAVA",
+    "name": "Dave Rogers",
+    "phone": "33333333333"
+}

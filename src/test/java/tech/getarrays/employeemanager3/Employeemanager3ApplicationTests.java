@@ -1,0 +1,13 @@
+package tech.getarrays.employeemanager3;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Employeemanager3ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
